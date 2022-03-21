@@ -2,6 +2,7 @@
 ### Usage:
 ``` 
 module "vpc" {
-      source =""
+      source ="Zami01/vpc/aws" 
+  
 }
 ```
